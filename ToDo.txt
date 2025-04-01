@@ -1,13 +1,15 @@
 ToDo
 
 - unit classes
-- grid
 - placeholder art
 - input system
 
 
 Done
 
+- repository
 - camera controller
+- grid
+
 
 
